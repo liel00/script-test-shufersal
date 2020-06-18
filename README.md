@@ -1,2 +1,3 @@
 # script-test-shufersal
-The test checks the addition of products to a shopping cart at the login site at shufersal.
+The test looks at adding products to a shopping cart, and logging into an account on the shufersal website.
+
